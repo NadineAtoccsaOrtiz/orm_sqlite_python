@@ -1,0 +1,9 @@
+Usuarios={
+    'Usuarios':{
+        'DNI':'INTEGER',
+        'nombre':'TEXT',
+        'apellidos':'TEXT',
+        'f_nacimiento':'TEXT',
+        'estado':'TEXT'
+    }
+}
